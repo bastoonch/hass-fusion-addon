@@ -1,4 +1,4 @@
-# ha-fusion
+# hass-fusion-addon
 
 A modern, easy-to-use and performant custom [Home Assistant](https://www.home-assistant.io/) dashboard
 
