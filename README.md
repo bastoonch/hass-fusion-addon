@@ -1,0 +1,2 @@
+# hass-fusion-addon
+hassfusion
